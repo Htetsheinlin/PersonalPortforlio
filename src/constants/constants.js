@@ -8,6 +8,15 @@ export const projects = [
     visit: 'https://tik-touk.vercel.app/',
     id: 0,
   },
+  {
+    title: 'Random Excuses',
+    description: " Built using Reactjs and Tailwind CSS. Random excuses to give if you don't want to be somewhere",
+      image: '/images/2.png',
+      tags: ['React.js', 'Tailwind CSS'],
+    source: 'https://github.com/Htetsheinlin/Random-Excuses',
+    visit: 'https://randomexcuses.vercel.app/',
+    id: 0,
+  },
   
 ];
 
