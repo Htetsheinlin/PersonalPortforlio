@@ -10,10 +10,10 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Welcome To <br/>
-        My Personal Portforlio
+        My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Hello there! I am Htet Shein Lin, a web developer who can create full-scale web apps.
+        Hello there! I am Htet Shein Lin, a web developer, a self-motivated frontend developer.
       </SectionText>
       <Link href="#footer">
         <Button>

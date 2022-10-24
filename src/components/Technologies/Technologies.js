@@ -10,7 +10,7 @@ const Technologies = () =>  (
     <br/>
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have worked with full stack technologies especially with MERN stack. 
+      I have worked with frontend technologies especially with React.js. 
     </SectionText>
     <List>
       <ListItem>
@@ -21,17 +21,6 @@ const Technologies = () =>  (
           <ListParagraph>
             Experienced with<br/>
             React.js
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <DiFirebase size="3rem"/>
-        <br/>
-        <ListContainer>
-          <ListTitle>Back-end</ListTitle>
-          <ListParagraph>
-            Experienced with<br/>
-            Node.js and Databases
           </ListParagraph>
         </ListContainer>
       </ListItem>

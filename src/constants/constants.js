@@ -17,6 +17,15 @@ export const projects = [
     visit: 'https://randomexcuses.vercel.app/',
     id: 0,
   },
+  {
+    title: 'Weather App',
+    description: "Built using React.js, Tailwind CSS and OpenMeteo weather API.",
+      image: '/images/4.png',
+      tags: ['React.js', 'Tailwind CSS', "Open Meteo Weather API"],
+    source: 'https://github.com/Htetsheinlin/Weather-react',
+    visit: 'https://weather-five-liard.vercel.app/',
+    id: 0,
+  },
   
 ];
 
